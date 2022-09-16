@@ -4,4 +4,3 @@ qwe
 q 10 w
 zxc
 ZXCVBN101010
-10
